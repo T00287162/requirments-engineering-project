@@ -1,15 +1,15 @@
-##Stakeholders
+## Stakeholders
 
-##Stakeholders needs and concerns
+## Stakeholders needs and concerns
 | Stakeholder | Possible need | Possible concern |
 |:-------------:|:---------------:|:------------------:|
 | Student | Know whether equipment is available  | Being unable to get equipment when needed |
-##Unknowns
+## Unknowns
 
-##Information sources
+## Information sources
 
-##Elicitation questions
+## Elicitation questions
 
-##Interview notes
+## Interview notes
 
-##Candidate requirement
+## Candidate requirement
