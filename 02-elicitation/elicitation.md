@@ -26,9 +26,13 @@
 
 ## Information sources
 • Interviews with students, lecturers, technicians, administrators and the equipment manager
+
 • Current booking records (spreadsheets, paper logs, emails)
+
 • College rules of booking equipment
+
 • Watching how equipment is given and returned
+
 • Records of past problems
 
 ## Elicitation questions
