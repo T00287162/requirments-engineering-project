@@ -66,8 +66,11 @@ The system shall save the borrower, the equipment item, and the start and end da
 
 ### Three things I learned
 • Bookings are made by email and kept in a shared spreadsheet, so double bookings can happen.
+
 • There is no fixed rule for late returns, so each technician deals with them in a different way.
+
 • The condition of equipment is often not recorded when it is returned.
+
 ### One thing I still do not know
 • What the exact rules are for taking equipment outside the college, and who can approve this.
 
