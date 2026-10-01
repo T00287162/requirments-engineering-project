@@ -1,5 +1,7 @@
+
+
 ## Stakeholders
-| Stakeholder | Role | Direct user | What they might care about |
+| **Stakeholder** | **Role** | **Direct user** | **What they might care about** |
 |:-------------:|:---------------:|:------------------:| :------------------:|
 | Student | Browses equipment | Yes | Finding and booking equipment easily|
 | Lecturer | Needs equipment for teaching | Yes | Equipment needs to be ready at time as required|
