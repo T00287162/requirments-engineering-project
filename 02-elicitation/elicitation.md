@@ -18,6 +18,7 @@
 | Equipment | Find the list of broken items, and items that have been bought | Buying new equipment without knowing of what equipment is required|
 ## Unknowns
 | Unknown | Who could answer? |
+|:-------:|:------------------:|
 | Who is allowed to book specialist equipment? | Equipment manager |
 | What happens when equipment is returned late? | Equipment technician |
 | What information must be saved for booking? | Department administrator |
@@ -31,10 +32,20 @@
 • Records of past problems
 
 ## Elicitation questions
-• 
+### Current process
+How are equipment bookings arranged now, from the first request to the return of the equipment?
+### Problems
+What problems do you have when you book, give out or return equipment?
+### Exceptions
+What happens when equipment is returned late, is damaged, or does not come back?
+### Information needed
+What information do you need to see or save about a booking? Where is it kept now?
+### Something we do not understand
+Are some types of equipment or some users treated differently? How is this decided?
 
 ## Interview notes
-###Current process
+
+### Current process
 Students send an email to the technician to ask for equipment. The technician writes the booking in a shared spreadsheet. The student collects the equipment from the store room.
 ### Problems
 Two people sometimes book the same item because the spreadsheet is not always updated. Nobody can easily see who has an item at the moment.
@@ -56,16 +67,3 @@ The system shall save the borrower, the equipment item, and the start and end da
 ### One thing I still do not know
 • What the exact rules are for taking equipment outside the college, and who can approve this.
 
-# Scenario
-Project: College Student Support Appointment System (Scenario B)
-## Stakeholders
-| **Stakeholder** | **Role** | **Direct user** | **What they might care about** |
-|:-------------:|:---------------:|:------------------:| :------------------:|
-| Student | Request and attend booked appointment | Yes | Getting appointment quickly, easy for reschedule, privacy |
-| Support advisor | Delivers the support session | Yes | No double bookings, manageable schedule |
-| Support administrator | Manages bookings, changes and cancelation | Yes | Clear rules about who can change appointment, less manual work |
-| Support service manager | Manages the service | Yes | Using advisor time fairly, seeing how busy the service is and how long students wait |
-| Personal lecturer | Sends students to the support services | Yes | Sending students to support quickly, without seeing private details |
-| Safeguarding | Dealing with special, urgent, high-risk cases | No | Problems are passed to the right person |
-| IT / System team | Supports collage team, looks after college accounts | No | Maintenance of system, security, login |
-| Data protection officer | Check if the personal data uses legally  | No | Privacy, safe storage|
