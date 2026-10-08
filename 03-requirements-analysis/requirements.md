@@ -13,6 +13,7 @@
 ### Requirement 1 - “The system shall be user-friendly.”
 
 #### What is the problem?
+Users may find it difficult to interact with UI of the system.
 #### One clarification question
 #### What information is missing?
 
