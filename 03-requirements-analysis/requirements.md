@@ -2,11 +2,15 @@
 
 ## 1. Information from Week 2
 • We moved towards requirements elicitation.
+
 • Identified stakeholders; 
+
 • Considered stakeholder needs and concerns;
+
 • Identified unknown information; developed question;
 
 ## 2. Candidate Requirements
+
 | Statement | Classification | Reason |
 |:---------:|:--------------:|:------:|
 | People are sometimes unsure whether a camera is available. | Problem/observation | Describes the problem of the system, not system should do |
@@ -15,6 +19,7 @@
 | The college should build a mobile app. | Solution idea | Straight solution without any states |
 | We assume all users will have a college login. | Assumption | Users assume the idea for the project |
 | A lecturer wants reliable availability information before promising equipment. | Stakeholder needs/concern | States what lecturer wants from system |
+
 ## 3. Requirements Surgery
 
 ### Requirement 1 - “The system shall be user-friendly.”
@@ -74,7 +79,9 @@ Select a date with known bookings and check that the availability shown is corre
 
 ### Review the functional requirements
 • FR-01: Behaviour is clear. "Authorised user" is not defined, so this is an unknown. We have assumed availability is checked per date rather than per time slot, which also needs confirming.
+
 • FR-02: Clear and verifiable. Missing: whether the return date can be changed later and who may change it.
+
 • FR-03: Clear and verifiable. Missing: how overdue items are shown, which is not covered yet.
 
 ## 5. Quality Requirements
