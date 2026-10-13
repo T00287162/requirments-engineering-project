@@ -55,40 +55,36 @@ On confirmation, change, removal, deadline of the booking.
 Confirm, change and cancel a test booking and check a notification is sent each time.
 
 ## 4. Functional Requirements
-### Develop functional requirements
-
 #### Who needs this?
-
+Technicians
 #### What does the system need to do?
-
-#### Does a condition apply?
-
+View whether equipment is available.
+#### When does a condition apply?
+Before confirming a booking, for a selected date.
 #### Why is this needed?
-
+To avoid double-booking and to give reliable answers.
 #### How could we verify it?
+Select a date with known bookings and check that the availability shown is correct.
 
 | ID | Requirement | Source | How could we verify it? |
 |:--:|:-----------:|:------:|:-----------------------:|
-| FR-01 |  |   |   |
-| FR-02 |  |   |   |
-| FR-03 |  |   |   |
+| FR-01 | The system shall allow an authorised user to view equipment availability for a selected date. | Technician need | Select a date with known bookings and check that the availability shown is correct. |
+| FR-02 | The system should record the expected return date for each booking. | Candidate requirement | Create a booking and check the return date is stored and displayed. |
+| FR-03 | The system should allow a technician to view the equipment to the back on a selected date. | Technician need | Create bookings with different return dates and check only the items due on the selected date are listed. |
 
 ### Review the functional requirements
-
-#### Is the required behaviour clear?
-
-#### Who is involved?
-
-#### Have we assumed something we do not know?
-
-#### Is anything important missing?
-
-#### How could we verify it?
+• FR-01: Behaviour is clear. "Authorised user" is not defined, so this is an unknown. We have assumed availability is checked per date rather than per time slot, which also needs confirming.
+• FR-02: Clear and verifiable. Missing: whether the return date can be changed later and who may change it.
+• FR-03: Clear and verifiable. Missing: how overdue items are shown, which is not covered yet.
 
 ## 5. Quality Requirements
 | ID | Quality requirement | Why does it matter? | How could it be checked? |
 |:--:|:-------------------:|:-------------------:|:------------------------:|
-| NFR-01 |
+| NFR-01 | The system should allow only authenticated, authorised users to create, edit or cancel bookings. | Unauthorised changes could cause booking conflicts or loss of equipment. | Have access to these actions without logging in and with an unauthorised role, and confirm both attempts to access are refused. |
 ## 6. Project Application
 
 ## 7. Reflection
+### 1. What makes a requirement difficult to understand? 
+Vague words such as "efficiently" or "user-friendly", unclear actors such as "staff" or "users", several requirements bundled into one, and missing conditions. If a requirement cannot be verified, it is hard to know what it actually means.
+
+### 2. What information do you still need for your project?
