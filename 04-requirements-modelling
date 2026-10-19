@@ -1,0 +1,32 @@
+## Week 4 — Requirements Modelling
+## Requirement used
+## Actors
+• Student
+
+• Equipment Technician
+
+•
+
+## Use Cases
+
+• View aviability
+
+• Create Booking
+
+• Record return
+
+• Record expected return date
+
+
+## Unknowns / Questions
+
+• Which roles are "authorised users"?
+
+• Who records expected return date?
+
+• Does the student also record the return date, or only technician?
+
+• Can a Lecturer or Administrator create bookings?
+
+
+## Reflection
