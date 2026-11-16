@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="UcaBOOrw9HkTSOc8GyUi">
+    <mxGraphModel dx="1406" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FWswghcOnIoUyn2nQSHl-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="810" x="30" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-4" edge="1" parent="1" source="FWswghcOnIoUyn2nQSHl-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="FWswghcOnIoUyn2nQSHl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="1&lt;div&gt;Browse equipment&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-5" edge="1" parent="1" source="FWswghcOnIoUyn2nQSHl-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="FWswghcOnIoUyn2nQSHl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;2&lt;/div&gt;&lt;div&gt;Equipment details&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-7" edge="1" parent="1" source="FWswghcOnIoUyn2nQSHl-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="FWswghcOnIoUyn2nQSHl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Request equipment&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-10" edge="1" parent="1" source="FWswghcOnIoUyn2nQSHl-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;labelPadding=0 4;startSize=8;endSize=8;" target="FWswghcOnIoUyn2nQSHl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;4&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Request equipment&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div&gt;5&lt;br&gt;Request submitted&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-11" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;gradientColor=none;" value="Diagram Heading" vertex="1">
+          <mxGeometry height="350" width="810" x="30" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FWswghcOnIoUyn2nQSHl-14" parent="FWswghcOnIoUyn2nQSHl-11" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#FF3333;sketch=0;" value="candidate: needs confirmation" vertex="1">
+          <mxGeometry height="30" width="180" x="460" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
